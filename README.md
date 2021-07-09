@@ -1,11 +1,12 @@
-### Aubert Barbosa
+### ![image](https://user-images.githubusercontent.com/53127242/125004306-9f8f8580-e02f-11eb-8f63-b0b252661839.png)
+ Aubert Barbosa
+![image](https://user-images.githubusercontent.com/53127242/125004307-a0c0b280-e02f-11eb-9ade-415325a52ede.png)
 
 <!--
 **Aubert-co/Aubert-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  My name is Aubert and...
-- 🌱 I’m currently learning Programação web
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
