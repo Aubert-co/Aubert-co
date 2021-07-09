@@ -1,6 +1,3 @@
-### ![image](https://user-images.githubusercontent.com/53127242/125004306-9f8f8580-e02f-11eb-8f63-b0b252661839.png)
- Aubert Barbosa
-![image](https://user-images.githubusercontent.com/53127242/125004307-a0c0b280-e02f-11eb-9ade-415325a52ede.png)
 
 <!--
 **Aubert-co/Aubert-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aubert-co)](https://github.com/anuraghazra/github-readme-stats)
