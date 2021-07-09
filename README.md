@@ -9,11 +9,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubert-co&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#  Aubert Barbosa
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubert-co)](https://github.com/anuraghazra/github-readme-stats)
+### Programador web e 💘 por programação 
+
+# Principais tecnologias 
+
+  ### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
+
+### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="nodejs logo">
+  
+### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="vuejs logo">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="react logo">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="css logo">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="html logo">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="mysql logo">
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Aubert-co)](https://github.com/anuraghazra/github-readme-stats)
 
 
