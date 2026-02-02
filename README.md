@@ -1,21 +1,50 @@
+# Aubert Barbosa
 
-<!--
-**Aubert-co/Aubert-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho experiência prática construindo projetos do zero, lidando com crescimento inesperado,
+refatoração de código e decisões técnicas que impactam manutenção e escalabilidade.
 
-Here are some ideas to get you started:
- My name is Aubert and...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#  Aubert Barbosa
+Um dos meus maiores aprendizados veio de um e-commerce pessoal que cresceu sem planejamento inicial.
+Refatorar esse projeto com apoio de mais de 300 testes automatizados mudou completamente
+a forma como desenvolvo hoje.
 
-### Enthusiast of the best web  technologies.
-### I'm not a genius but I study every day to become my best version
+### Como eu trabalho
+- Planejamento antes de escalar funcionalidades
+- Testes automatizados como base para refatorações
+- Decisões técnicas conscientes e sustentáveis
+- Código simples, legível e fácil de manter
 
-# Main technologies
+### Tecnologias
+JavaScript • TypeScript • Node.js • React • MySQL • HTML • CSS
 
-  ### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="nodejs logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="react logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="css logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="html logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="mysql logo">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubert-co&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"
+    width="64"
+    height="64"
+    alt="Node.js"
+  />
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"
+    width="64"
+    height="64"
+    alt="PostgreSQL"
+  />
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"
+    width="64"
+    height="64"
+    alt="Docker"
+  />
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"
+    width="64"
+    height="64"
+    alt="TypeScript"
+  />
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"
+    width="64"
+    height="64"
+    alt="React"
+  />
+</p>
